@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    top: 40vh;
+    transform: translate(0, -50%);
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    box-shadow: 0 0 8px 2px rgb(212, 206, 206);
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.display-chart{
+    position: absolute;
+    right: 100px;
+    height: 750px;
+    width: 500px;
+    top: 5px;
+}
